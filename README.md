@@ -8,4 +8,4 @@ View the [Leaderboard](https://adventofcode.com/2023/leaderboard/private/view/34
 
 ---
 
-Please be aware that you run the code at you own risk :beetle:
+Please be aware that you run the code at your own risk :beetle:
